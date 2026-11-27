@@ -1,3 +1,6 @@
+
+#Егор / пока что веб простаиваится из-за лени остальных участников, привет Ване и Мише
+
 from flask import Flask
 from flask import render_template
 app = Flask(__name__)
